@@ -1,6 +1,6 @@
 ### Hello :-)
 
-lazy student here 😔
+lazy student here 😔. i don't know how to code D:.
 
 
 
