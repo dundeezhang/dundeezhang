@@ -1,7 +1,6 @@
 ### Hello :-)
 
-lazy student here 😔. i don't know how to code D:.
-
+welcome to my trash github page
 
 
 <!--
