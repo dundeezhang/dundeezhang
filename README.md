@@ -1,6 +1,6 @@
-### Hello :-)
+### Hello!
 
-welcome to my trash github page
+I'm currently inactive 💀
 
 
 <!--
