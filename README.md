@@ -1,6 +1,10 @@
-### Hello!
+### Hello World!
 
-I'm currently inactive 💀
+I'm Dundee: a 1A Computer Science Student at the Univeristy of Waterloo.
+
+Learn more about me at my [website](https://dundeezhang.com).
+
+
 
 
 <!--
