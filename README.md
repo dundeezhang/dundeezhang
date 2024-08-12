@@ -4,6 +4,8 @@ I'm Dundee: a 1A Computer Science Student at the Univeristy of Waterloo.
 
 Learn more about me at my [website](https://dundeezhang.com).
 
+[![Dundees's GitHub stats](https://github-readme-stats.vercel.app/api?username=dundeezhang)](https://github.com/dundeezhang/github-readme-stats)
+
 
 
 
