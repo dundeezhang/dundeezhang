@@ -1,5 +1,5 @@
 ### Hello World!
-
+![](https://komarev.com/ghpvc/?username=dundeezhang)
 I'm Dundee: a 1A Computer Science Student at the Univeristy of Waterloo.
 
 Learn more about me at my [website](https://dundeezhang.com).
