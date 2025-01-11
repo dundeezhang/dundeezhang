@@ -3,7 +3,7 @@
 
 Currently looking for summer 2025 internships. [website](https://dundeezhang.com).
 
-Some of my silly sites include:
+Some of my epic sites include:
 * [Portfolio](https://dundeezhang.com)
 * [Blog](https://dundeezhang.com/blog)
 * [ReadMd](https://readmd.dhz.app)
