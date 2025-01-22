@@ -7,4 +7,4 @@ Stuff I make found [here](https://dhz.app).
 
 My resume is found at [cv.dhz.app](https://cv.dhz.app)
 
-[![Dundees's GitHub stats](https://github-readme-stats.vercel.app/api?username=dundeezhang)](https://github.com/dundeezhang/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dundeezhang&layout=compact)
+[![Dundees's GitHub stats](https://github-readme-stats.vercel.app/api?username=dundeezhang&show_icons=true&theme=tokyonight)](https://github.com/dundeezhang/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dundeezhang&show_icons=true&theme=tokyonight&layout=donut)
