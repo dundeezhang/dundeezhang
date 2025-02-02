@@ -1,7 +1,9 @@
 ### Hello World!
 ![](https://komarev.com/ghpvc/?username=dundeezhang)
 
-Currently looking for summer 2025 internships. [website](https://dundeezhang.com).
+Currently looking for summer 2025 internships.
+
+My portfolio and works found on my [website](https://dundeezhang.com).
 
 Stuff I make found [here](https://dhz.app).
 
