@@ -5,6 +5,8 @@ Currently looking for summer 2025 internships.
 
 My portfolio and works found on my [website](https://dundeezhang.com).
 
+Check out my blog at [blog.dhz.app](https://blog.dhz.app).
+
 Stuff I make found [here](https://dhz.app).
 
 My resume is found at [cv.dhz.app](https://cv.dhz.app)
