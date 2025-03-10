@@ -1,7 +1,7 @@
 ### Hello World! Welcome to my GitHub!
 ![](https://komarev.com/ghpvc/?username=dundeezhang)
 
-I'm a software developer studying **CS @ University of Waterloo**! Feel free to browse my GitHub projects to learn more about what I do. My **pinned projects** would typically be my most refined and proud works.
+I'm a software developer studying **CS @ University of Waterloo**! Feel free to browse my GitHub projects to learn more about what I do. My **pinned projects** are typically my most refined and proud works.
 
 I'm also currently looking for **summer 2025 internships**. Contact me at **dh2zhang _at_ uwaterloo _dot_ ca** or through the contact form found on my [website](https://dundeezhang.com).
 
