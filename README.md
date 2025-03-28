@@ -9,5 +9,6 @@ I'm also currently looking for **summer 2025 internships**. Contact me at **dh2z
 - Stuff I make found [dhz.app](https://dhz.app).
 - Check out my blog at [blog.dhz.app](https://blog.dhz.app).
 - My resume is found at [cv.dhz.app](https://cv.dhz.app)
+- Check out my twitter [twitter](https://x.com/dundeezhang)
 
 [![Dundees's GitHub stats](https://github-readme-stats.vercel.app/api?username=dundeezhang&show_icons=true)](https://github.com/dundeezhang/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dundeezhang&show_icons=true&layout=donut&hide=html,css)
