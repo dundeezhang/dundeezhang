@@ -3,7 +3,7 @@
 
 I'm a software developer studying **CS @ University of Waterloo**! Feel free to browse my GitHub projects to learn more about what I do. My **pinned projects** are typically my most refined and proud works.
 
-I'm also currently looking for **summer 2025 and fall 2025 internships**. Contact me at **dh2zhang _at_ uwaterloo _dot_ ca** or through the contact form found on my [website](https://dundeezhang.com).
+I'm also currently looking for **winter 2026 internships**. Contact me at **dh2zhang _at_ uwaterloo _dot_ ca** or through the contact form found on my [website](https://dundeezhang.com).
 
 - My portfolio and works found on my [website](https://dundeezhang.com).
 - Stuff I make found [dhz.app](https://dhz.app).
