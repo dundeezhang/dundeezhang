@@ -11,4 +11,4 @@ I'm also currently looking for **winter 2026 internships**. Contact me at **dh2z
 - My resume is found at [cv.dhz.app](https://cv.dhz.app)
 - Check out my [twitter](https://x.com/dundeezhang)
 
-[![Dundees's GitHub stats](https://github-readme-stats.vercel.app/api?username=dundeezhang&show_icons=true)](https://github.com/dundeezhang/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dundeezhang&show_icons=true&layout=donut&hide=html,css)
+[![Dundees's GitHub stats](https://github-readme-stats.vercel.app/api?username=dundeezhang&show_icons=true&show=reviews)](https://github.com/dundeezhang/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dundeezhang&show_icons=true&layout=donut&hide=html,css)
