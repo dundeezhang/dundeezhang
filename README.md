@@ -1,15 +1,13 @@
-### Hello World! Welcome to my GitHub!
+### Hey All! Welcome to my GitHub!
 ![](https://komarev.com/ghpvc/?username=dundeezhang)
 
-I'm a software developer studying **CS @ University of Waterloo**! Feel free to browse my GitHub projects to learn more about what I do. My **pinned projects** are typically my most refined and proud works.
+I'm a software developer studying **CS @ University of Waterloo**! Contact me at **dh2zhang _at_ uwaterloo _dot_ ca**
 
-I'm also currently looking for **winter 2026 internships**. Contact me at **dh2zhang _at_ uwaterloo _dot_ ca** or through the contact form found on my [website](https://dundeezhang.com).
+- currently building @ [airfairness](airfairness.com)
+- my portfolio and works found on my [website](https://dundeezhang.com).
+- stuff I make found @ [dhz.app](https://dhz.app).
+- check out my [blog](https://blog.dhz.app).
+- my resume is found @ [cv.dhz.app](https://cv.dhz.app).
+- check out my [twitter / x](https://x.com/dundeezhang).
 
-- Currently building @ [airfairness](airfairness.com)
-- My portfolio and works found on my [website](https://dundeezhang.com).
-- Stuff I make found [dhz.app](https://dhz.app).
-- Check out my blog at [blog.dhz.app](https://blog.dhz.app).
-- My resume is found at [cv.dhz.app](https://cv.dhz.app).
-- Check out my [twitter](https://x.com/dundeezhang).
-
-[![Dundees's GitHub stats](https://github-readme-stats.vercel.app/api?username=dundeezhang&show_icons=true&show=reviews)](https://github.com/dundeezhang/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dundeezhang&show_icons=true&layout=donut&hide=html,css)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=dundeezhang&show_icons=true&show=reviews)](https://github.com/dundeezhang/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dundeezhang&show_icons=true&layout=donut&hide=html,css)
