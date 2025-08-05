@@ -5,6 +5,7 @@ I'm a software developer studying **CS @ University of Waterloo**! Feel free to 
 
 I'm also currently looking for **winter 2026 internships**. Contact me at **dh2zhang _at_ uwaterloo _dot_ ca** or through the contact form found on my [website](https://dundeezhang.com).
 
+- Currently building @ airfairness
 - My portfolio and works found on my [website](https://dundeezhang.com).
 - Stuff I make found [dhz.app](https://dhz.app).
 - Check out my blog at [blog.dhz.app](https://blog.dhz.app).
