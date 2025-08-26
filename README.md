@@ -3,7 +3,7 @@
 
 I'm a software developer studying **CS @ University of Waterloo**! Contact me at **dh2zhang _at_ uwaterloo _dot_ ca**
 
-- currently building @ [airfairness](airfairness.com)
+- currently building @ [airfairness](https://airfairness.com)
 - my portfolio and works found on my [website](https://dundeezhang.com).
 - stuff I make found @ [dhz.app](https://dhz.app).
 - check out my [blog](https://blog.dhz.app).
