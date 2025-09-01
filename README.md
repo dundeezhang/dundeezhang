@@ -1,4 +1,4 @@
-### Hey All! Welcome to my GitHub!
+## welcome to my github
 ![](https://komarev.com/ghpvc/?username=dundeezhang)
 
 I'm a software developer studying **CS @ University of Waterloo**! Contact me at contact@dundeezha.ng
