@@ -4,7 +4,7 @@
 I'm a software developer studying **CS @ University of Waterloo**! Contact me at contact@dundeezha.ng
 
 - i write a [blog](https://blog.dhz.app).
-- shipped @ [airfairness](https://airfairness.com)
+- shipped @ [airfairness](https://airfairness.com).
 - my portfolio and works found on my [website](https://dundeezhang.com).
 - my resume is found @ [cv.dhz.app](https://cv.dhz.app).
 - check out my [twitter / x](https://x.com/dundeezhang).
