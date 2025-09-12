@@ -9,4 +9,9 @@ I'm a software developer studying **CS @ University of Waterloo**! Contact me at
 - my resume is found @ [cv.dhz.app](https://cv.dhz.app).
 - check out my [twitter / x](https://x.com/dundeezhang).
 
+<!--
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=dundeezhang&show_icons=true&show=reviews)](https://github.com/dundeezhang/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dundeezhang&show_icons=true&layout=donut&hide=html,css)
+
+
+-->
+
