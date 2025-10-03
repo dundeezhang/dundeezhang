@@ -1,7 +1,7 @@
 ## welcome to my github
 ![](https://komarev.com/ghpvc/?username=dundeezhang)
 
-I'm a software developer studying **CS @ University of Waterloo**! Contact me at contact@dundeezha.ng
+Contact me at contact@dundeezha.ng
 
 - i write a [blog](https://blog.dhz.app).
 - shipped @ [airfairness](https://airfairness.com).
