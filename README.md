@@ -1,5 +1,5 @@
 ### hi, im dundee
-
+![](https://komarev.com/ghpvc/?username=dundeezhang)
 
 email @ contact@dundeezha.ng
 
@@ -14,7 +14,7 @@ email @ contact@dundeezha.ng
 
 
 page views
-![](https://komarev.com/ghpvc/?username=dundeezhang)
+
 
 -->
 
