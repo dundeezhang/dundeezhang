@@ -3,7 +3,7 @@
 
 email @ dh2zhang@uwaterloo.ca
 
-- i write a [blog](https://blog.dhz.app).
+- i write a [blog](https://dundeezhang.com/articles).
 - shipped @ [airfairness](https://airfairness.com).
 - works found @ my [website](https://dundeezhang.com).
 - resume found @ [cv.dhz.app](https://cv.dhz.app).
