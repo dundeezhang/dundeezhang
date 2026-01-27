@@ -4,7 +4,7 @@
 email @ dh2zhang@uwaterloo.ca
 
 - i write a [blog](https://dundeezhang.com/articles).
-- shipped @ [airfairness](https://airfairness.com).
+- building @ [coderabbit](https://coderabbit.ai)
 - works found @ my [website](https://dundeezhang.com).
 - resume found @ [cv.dhz.app](https://cv.dhz.app).
 - contact me @ [twitter / x](https://x.com/dundeezhang).
