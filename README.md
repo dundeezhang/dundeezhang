@@ -1,7 +1,7 @@
 ### hi, im dundee
 ![](https://komarev.com/ghpvc/?username=dundeezhang)
 
-email @ dh2zhang@uwaterloo.ca
+my email: dh2zhang@uwaterloo.ca
 
 - building [coderabbit](https://coderabbit.ai)
 - my [works](https://dundeezhang.com).
