@@ -3,10 +3,10 @@
 
 email @ dh2zhang@uwaterloo.ca
 
-- i write a [blog](https://dundeezhang.com/articles).
-- building @ [coderabbit](https://coderabbit.ai)
-- works found @ my [website](https://dundeezhang.com).
-- resume found @ [cv.dhz.app](https://cv.dhz.app).
+- building [coderabbit](https://coderabbit.ai)
+- my [works](https://dundeezhang.com).
+- my [resume](https://cv.dhz.app).
+- my [articles](https://dundeezhang.com/articles).
 - contact me on [x](https://x.com/dundeezhang).
 
 <!--
