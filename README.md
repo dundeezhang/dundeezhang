@@ -3,10 +3,10 @@
 
 my email: dh2zhang@uwaterloo.ca
 
-- building [coderabbit](https://coderabbit.ai)
-- [works](https://dundeezhang.com).
-- [resume](https://cv.dhz.app).
-- [x](https://x.com/dundeezhang).
+[works](https://dundeezhang.com) | [resume](https://cv.dhz.app) | [x](https://x.com/dundeezhang)
+
+currently building at [coderabbit](https://coderabbit.ai)
+
 
 <!--
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=dundeezhang&show_icons=true&show=reviews)](https://github.com/dundeezhang/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dundeezhang&show_icons=true&layout=donut&hide=html,css)
