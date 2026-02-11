@@ -3,9 +3,9 @@
 
 my email: dh2zhang@uwaterloo.ca
 
-[works](https://dundeezhang.com) | [resume](https://cv.dhz.app) | [x](https://x.com/dundeezhang)
+[works](https://dundeezhang.com) | [resume](https://cv.dhz.app) | [x/twt](https://x.com/dundeezhang)
 
-currently building at [coderabbit](https://coderabbit.ai)
+currently building at [coderabbit.ai](https://coderabbit.ai)
 
 
 <!--
