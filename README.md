@@ -3,7 +3,7 @@
 
 my email: dh2zhang@uwaterloo.ca
 
-[works](https://dundeezhang.com) | [resume](https://cv.dhz.app) | [x/twt](https://x.com/dundeez)
+[works](https://dundeezhang.com) | [resume](https://cv.dhz.app) | [x/twitter](https://x.com/dundeez)
 
 currently building at [coderabbit.ai](https://coderabbit.ai)
 
