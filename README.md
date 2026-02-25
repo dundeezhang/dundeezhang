@@ -1,9 +1,7 @@
-### hi, im dundee
+## dundeez
 ![](https://komarev.com/ghpvc/?username=dundeezhang)
 
-my email: dh2zhang@uwaterloo.ca
-
-[works](https://dundeezhang.com) | [resume](https://cv.dhz.app) | [x/twitter](https://x.com/dundeez)
+[works](https://dundeezhang.com) | [x/twitter](https://x.com/dundeez) | [email](mailto:dh2zhang@uwaterloo.ca)
 
 
 <!--
