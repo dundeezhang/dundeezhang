@@ -1,4 +1,4 @@
-## dundeez
+## dundeezhang
 ![](https://komarev.com/ghpvc/?username=dundeezhang)
 
 [works](https://dundeezhang.com) | [x/twitter](https://x.com/dundeez) | [email](mailto:dh2zhang@uwaterloo.ca)
